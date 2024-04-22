@@ -3,5 +3,5 @@ main = "src/index.ts"
 compatibility_date = "2023-04-07"
 
 kv_namespaces = [
-  { binding = "MY_TODOS", id = "c3c80be52de349b69f8efa9f3df00329" }
+  { binding = "template-EXAMPLE_TODOS-31a5bca3-6413-4fd7-aa4b-2cd349e55ae7", id = "291a1ac047734e03a1ca0b70b8bc836d" }
 ]
